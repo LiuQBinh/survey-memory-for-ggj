@@ -2,6 +2,8 @@
 
 Runnable demos for the **AI Agent Memory** report: **D1** retrieval memory, **D2** format of memory, **D3** evaluation flow.
 
+**Repository:** https://github.com/LiuQBinh/survey-memory-for-ggj  
+
 **Report (Notion):** [LLM memory](https://www.notion.so/ggjungle/LLM-memory-2f8cf7d9448880e6833aec61026996f8)
 
 ---
